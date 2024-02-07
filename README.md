@@ -19,8 +19,8 @@
 
 <h2>Programming Projects </h2>
 - <b>Python Programming Sample</b>
-  - [PythonBladeCheck:Lawn Mower Blade Size and Maintenance Advisor](https://replit.com/@davidclacey/PythonBladeCheck)
-  <b><i>
+  - [PythonBladeCheck:Lawn Mower Blade Size and Maintenance Advisor](https://replit.com/@davidclacey/PythonBladeCheck).
+
 - <b>Java Programming Sample</b>
   - [JavaMeatSafe: Precision Cooking Temperature Assistant](https://replit.com/@davidclacey/JavaMeatSafe) <b><i>
 
