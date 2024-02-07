@@ -2,10 +2,12 @@
 
 <h2>👨‍💻 Cloud and Security Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>AWS Cloud Vulnerability Lab: Hands-On Security Training</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>AWS Phishing Lab</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>AWS Cloud Resume Challenge</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
@@ -17,7 +19,7 @@
   - [Keylogger with Email Capability](https)
 
 
-<h2>Programming Projects </h2>
+<h2>👨‍💻 Programming Projects </h2>
 
 - <b>Python Programming Sample</b>
   - [PythonBladeCheck: Lawn Mower Blade Advisor](https://replit.com/@davidclacey/PythonBladeCheck)
