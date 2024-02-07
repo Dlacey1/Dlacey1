@@ -18,11 +18,10 @@
 
 
 <h2>Programming Projects </h2>
-- <b>Python</b>
-  - [Package Delivery Application (Python Programming Demo)](https://replit.com/@davidclacey/JavaMeatSafe)
-</b></i>
-- <b>Java</b>
-  - [Package Delivery Application (Java Programming Demo)](https://replit.com/@davidclacey/JavaMeatSafe?v=1)
+- <b>Python Programming Sample</b>
+  - [PythonBladeCheck:Lawn Mower Blade Size and Maintenance Advisor](https://replit.com/@davidclacey/PythonBladeCheck)
+- <b>Java Programming Sample</b>
+  - [JavaMeatSafe: Precision Cooking Temperature Assistant](https://replit.com/@davidclacey/JavaMeatSafe) <b><i>
 
 <h2> 🤳 Connect with me:</h2>
 
