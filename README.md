@@ -18,6 +18,7 @@
 
 
 <h2>Programming Projects </h2>
+
 - <b>Python Programming Sample</b>
   - [PythonBladeCheck: Lawn Mower Blade Advisor](https://replit.com/@davidclacey/PythonBladeCheck)
 - <b>Java Programming Sample</b>
