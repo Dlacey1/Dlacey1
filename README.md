@@ -20,6 +20,7 @@
 <h2>Programming Projects </h2>
 - <b>Python</b>
   - [Package Delivery Application (Python Programming Demo)](https://replit.com/@davidclacey/JavaMeatSafe)
+</b></i>
 - <b>Java</b>
   - [Package Delivery Application (Java Programming Demo)](https://replit.com/@davidclacey/JavaMeatSafe?v=1)
 
