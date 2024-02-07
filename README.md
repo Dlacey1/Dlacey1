@@ -20,6 +20,8 @@
 <h2>Programming Projects </h2>
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Java</b>
+  - [Package Delivery Application (Java Programming Demo)](https://replit.com/@davidclacey/JavaMeatSafe?v=1)
 
 <h2> 🤳 Connect with me:</h2>
 
