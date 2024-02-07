@@ -13,14 +13,13 @@
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Ransomware Proof of Concept (Decrypter)](https://replit.com/@davidclacey/PythonBladeCheck)
+  - [Keylogger with Email Capability](https)
 
 
 <h2>Programming Projects </h2>
 - <b>Python Programming Sample</b>
-  - [PythonBladeCheck:Lawn Mower Blade Size and Maintenance Advisor](https://replit.com/@davidclacey/PythonBladeCheck).
-
+  - [PythonBladeCheck: Lawn Mower Blade Advisor](https://replit.com/@davidclacey/PythonBladeCheck)
 - <b>Java Programming Sample</b>
   - [JavaMeatSafe: Precision Cooking Temperature Assistant](https://replit.com/@davidclacey/JavaMeatSafe) <b><i>
 
