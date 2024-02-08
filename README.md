@@ -2,17 +2,13 @@
 
 <h2>👨‍💻 Cloud and Security Projects:</h2>
 
-- <b>AWS Cloud Vulnerability Lab: Hands-On Security Training</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>AWS Phishing Lab</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>AWS Cloud Resume Challenge</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>AWS </b>
+  - [Cloud Vulnerability Lab: Hands-On Security Training](https://github.com/Dlacey1/AWS-Cloud-Vulnerability-Lab-Hands-On-Security-Training)
+  - [AWS Phishing Lab](https://github.com/Dlacey1/AWS-Phishing-Lab/blob/main/README.md) <b><i></b></i>
+  - [Cloud Resume Challenge](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://replit.com/@davidclacey/PythonBladeCheck)
@@ -21,9 +17,9 @@
 
 <h2>👨‍💻 Programming Projects </h2>
 
-- <b>Python Programming Sample</b>
+- <b>Python</b>
   - [PythonBladeCheck: Lawn Mower Blade Advisor](https://replit.com/@davidclacey/PythonBladeCheck)
-- <b>Java Programming Sample</b>
+- <b>Java</b>
   - [JavaMeatSafe: Precision Cooking Temperature Assistant](https://replit.com/@davidclacey/JavaMeatSafe) <b><i>
 
 <h2> 🤳 Connect with me:</h2>
