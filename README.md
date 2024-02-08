@@ -1,4 +1,4 @@
-<h1>Hi, I'm David! <br/><a href="(https://www.linkedin.com/in/davidclacey/)">Cloud and Cybersecurity Engineer</a>, <a href="(https://www.linkedin.com/in/davidclacey/)">Cybersecurity Professional</a>, <a href="(https://www.linkedin.com/in/davidclacey/)">YouTuber</a></h1>
+<h1>Hi, I'm David! <br/><a href="(https://www.linkedin.com/in/davidclacey/)">Cloud and Cybersecurity Engineer</a>
 
 <h2>👨‍💻 Cloud and Security Projects:</h2>
 
