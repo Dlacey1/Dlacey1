@@ -5,7 +5,7 @@
 - <b>AWS </b>
   - [Cloud Vulnerability Lab: Hands-On Security Training](https://github.com/Dlacey1/AWS-Cloud-Vulnerability-Lab-Hands-On-Security-Training)
   - [Cloud Phishing Campaign](https://github.com/Dlacey1/AWS-Phishing-Lab/blob/main/README.md) <b><i></b></i>
-  - [Cloud Resume Challenge](https://github.com/Dlacey1/Cloud-Resume-Challenge/blob/main/README.md) (In Progress)
+  - [Cloud Resume Challenge with Terraform](https://github.com/Dlacey1/Cloud-Resume-Challenge/blob/main/README.md) (In Progress)
 - <b>PowerShell</b>
    - [Active Directory Bulk User Creation](Coming Soon)
 
