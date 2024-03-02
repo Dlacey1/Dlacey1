@@ -2,12 +2,14 @@
 
 <h2>👨‍💻 Cloud and Security Projects:</h2>
 
-- <b>AWS </b>
+- <b>SOC (Security Operations Center) Labs</b>
+  - [VM SOC Environment: Attack and Detection with LimaCharlie EDR, Sigma Rules, and Sliver C2 Instance](https://github.com/Dlacey1/Sigma-LimaCharlie-SOC-C2-Instance)
+  - [DarkGate Malware Pcap Analysis via WireShark](https://github.com/Dlacey1/DarkGate-Malware-Pcap-Analysis-Wireshark/tree/main)
+- <b>AWS</b>
   - [Cloud Vulnerability Lab: Hands-On Security Training](https://github.com/Dlacey1/AWS-Cloud-Vulnerability-Lab-Hands-On-Security-Training)
   - [Cloud Phishing Campaign](https://github.com/Dlacey1/AWS-Phishing-Lab/blob/main/README.md) <b><i></b></i>
-  - [Cloud Resume Challenge with Terraform](https://github.com/Dlacey1/Cloud-Resume-Challenge/blob/main/README.md) (In Progress)
-- <b>PowerShell</b>
-   - [Active Directory Bulk User Creation](Coming Soon)
+  - [Cloud Resume Challenge with Terraform](https://github.com/Dlacey1/Cloud-Resume-Challenge/blob/main/README.md) 
+
 
 
 
