@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cloud and Security Projects:</h2>
 
 - <b>SOC (Security Operations Center) Labs</b>
-  - [VM SOC Environment: Attack and Detection with LimaCharlie EDR, Sigma Rules, and Sliver C2 Instance](https://github.com/Dlacey1/Sigma-LimaCharlie-SOC-C2-Instance)
+  - [VM SOC Environment: Attack and Detection with EDR, Sigma Rules, and Sliver C2 Instance](https://github.com/Dlacey1/Sigma-LimaCharlie-SOC-C2-Instance)
   - [DarkGate Malware Pcap Analysis via WireShark](https://github.com/Dlacey1/DarkGate-Malware-Pcap-Analysis-Wireshark/tree/main)
 - <b>AWS</b>
   - [Cloud Vulnerability Lab: Hands-On Security Training](https://github.com/Dlacey1/AWS-Cloud-Vulnerability-Lab-Hands-On-Security-Training)
