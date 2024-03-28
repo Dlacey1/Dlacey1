@@ -1,10 +1,11 @@
-<h1>Hi, I'm David! <br/><a href="(https://www.linkedin.com/in/davidclacey/)">Cloud and Cybersecurity Engineer</a>
+<h1>Hi, I'm David! <br/><a href="(https://www.linkedin.com/in/davidclacey/)">Cloud and Cybersecurity GRC Specialist</a>
 
 <h2>👨‍💻 Cloud and Security Projects:</h2>
 
 
 - **GRC (Governance, Risk, and Compliance)**
-  - [Sample Information Security Policy for a Midsize Organization](https://github.com/Dlacey1/InfoSec-GRC-Policy/blob/main/README.md)
+  - [Information Security Policy for a Midsize Organization](https://github.com/Dlacey1/InfoSec-GRC-Policy/blob/main/README.md)
+  - [Third-Party Exception Policy](https://github.com/Dlacey1/Third-Party-Exception-Policy)
 
 - **SOC (Security Operations Center) Labs**
   - [VM SOC Environment: Attack and Detection with EDR, Sigma Rules, and Sliver C2 Instance](https://github.com/Dlacey1/Sigma-LimaCharlie-SOC-C2-Instance)
