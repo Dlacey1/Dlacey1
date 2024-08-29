@@ -1,7 +1,10 @@
-<h1>Hi, I'm David! <br/><a href="(https://www.linkedin.com/in/davidclacey/)">Cloud and Cybersecurity GRC Specialist</a>
+<h1>Hi, I'm David! <br/><a href="(https://www.linkedin.com/in/davidclacey/)">Vulnerability Management, Cloud, and Cybersecurity GRC Specialist</a>
 
 <h2>👨‍💻 Cloud and Security Projects:</h2>
 
+- **Vulnerability Management**
+  - [Vulnerability Management News Threat Feed](https://github.com/Dlacey1/vmAssist)
+  - [Qualys Postman API Library](https://github.com/Dlacey1/QualysAPI)
 
 - **GRC (Governance, Risk, and Compliance)**
   - [Information Security Policy for a Midsize Organization](https://github.com/Dlacey1/InfoSec-GRC-Policy/blob/main/README.md)
