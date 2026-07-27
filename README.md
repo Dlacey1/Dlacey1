@@ -1,4 +1,4 @@
-<h1>Hi, I'm David! <br/><a href="(https://www.linkedin.com/in/davidclacey/)">Vulnerability Management, Cloud, and Cybersecurity GRC Specialist</a>
+<h1>Hi, I'm David! <br/><a href="https://www.linkedin.com/in/davidclacey/">Vulnerability Management, Cloud, and Cybersecurity GRC Specialist</a>
 
 <h2>👨‍💻 Cloud and Security Projects:</h2>
 
